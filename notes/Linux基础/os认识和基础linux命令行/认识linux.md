@@ -102,6 +102,8 @@
 
 -h 			|human-reable
 
+-d  			|看目录自己
+
 常用-lh,-lha
 
 ### cd命令
